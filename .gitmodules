@@ -1,3 +1,4 @@
 [submodule "lw2/src"]
 	path = lw2/src
-	url = git@gh-personal:artyoomi/db-dsl-syntax-analyzer.git
+	url = git@github.com:artyoomi/db-dsl-syntax-analyzer.git
+	branch = master
