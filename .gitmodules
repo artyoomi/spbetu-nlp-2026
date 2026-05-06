@@ -2,3 +2,7 @@
 	path = lw2/src
 	url = git@github.com:artyoomi/db-dsl-syntax-analyzer.git
 	branch = master
+[submodule "lw3/src"]
+	path = lw3/src
+	url = git@github.com:artyoomi/automatic-text-abstractor.git
+	branch = master
