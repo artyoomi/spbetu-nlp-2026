@@ -6,3 +6,7 @@
 	path = lw3/src
 	url = git@github.com:artyoomi/automatic-text-abstractor.git
 	branch = master
+[submodule "lw5/src"]
+	path = lw5/src
+	url = https://github.com/artyoomi/word-sense-disambiguation.git
+	branch = master
